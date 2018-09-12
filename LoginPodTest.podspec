@@ -7,7 +7,7 @@ s.description  = <<-DESC
 It is a component for ios photo browser,written by Objective-C.
 DESC
   s.homepage     = "https://github.com/zhuguojun0022/rsyx/tree/master/EPSecuritySDKDemo/LoginPodTest"
-  s.license      = "MIT"
+  s.license      = "Apache License 2.0"
 
   s.author       = { "zhuguojun" => "zhugj@epsoft.com.cn" }
 
