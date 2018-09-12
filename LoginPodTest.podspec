@@ -1,12 +1,12 @@
 
 Pod::Spec.new do |s|
   s.name         = "LoginPodTest"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of LoginPodTest."
+  s.version      = "1.0.2"
+  s.summary      = "LoginPodTest for ios"
 s.description  = <<-DESC
 It is a component for ios photo browser,written by Objective-C.
 DESC
-  s.homepage     = "https://github.com/zhuguojun0022/EPSecuritySDKDemo/LoginPodTest"
+  s.homepage     = "https://github.com/zhuguojun0022/rsyx/tree/master/EPSecuritySDKDemo/LoginPodTest"
   s.license      = "MIT"
 
   s.author       = { "zhuguojun" => "zhugj@epsoft.com.cn" }
