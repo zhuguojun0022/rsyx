@@ -1,0 +1,6 @@
+framework module EPSecuritySDK {
+  umbrella header "EPSecuritySDK.h"
+
+  export *
+  module * { export * }
+}
